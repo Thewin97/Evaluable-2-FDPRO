@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\bin\Debug\net9.0\Login.exe
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\bin\Debug\net9.0\Login.deps.json
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\bin\Debug\net9.0\Login.runtimeconfig.json
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\bin\Debug\net9.0\Login.dll
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\bin\Debug\net9.0\Login.pdb
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\obj\Debug\net9.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\obj\Debug\net9.0\Login.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\obj\Debug\net9.0\Login.AssemblyInfo.cs
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\obj\Debug\net9.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\obj\Debug\net9.0\Login.dll
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\obj\Debug\net9.0\refint\Login.dll
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\obj\Debug\net9.0\Login.pdb
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\obj\Debug\net9.0\Login.genruntimeconfig.cache
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_2\Login\obj\Debug\net9.0\ref\Login.dll
